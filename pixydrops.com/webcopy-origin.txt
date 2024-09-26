@@ -1,0 +1,1836 @@
+Uri: https://fonts.googleapis.com/css2?family=Alex+Brush&family=Cormorant:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alexbrush/v22/SZc83FzrJKuqFbwMKk6EtUI.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\alexbrush\v22\SZc83FzrJKuqFbwMKk6EtUI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBq6A.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfdq6A.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfdq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_dq6A.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_dq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBq6A.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTQ7Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTQ7Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9UQ7Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9UQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUQ7Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://pixydrops.com/eduhive-html/404.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\404.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/about.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\about.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/apps-development.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\apps-development.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/assets/css/eduhive-custom-rtl.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\css\eduhive-custom-rtl.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/css/eduhive-dark.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\css\eduhive-dark.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/css/eduhive-rtl.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\css\eduhive-rtl.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/css/eduhive.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\css\eduhive.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/about/about-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\about\about-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/about/about-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\about\about-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/about/about-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\about\about-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/about/about-2-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\about\about-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/about/about-3-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\about\about-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/about/about-student-3-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\about\about-student-3-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/about/about-student-3-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\about\about-student-3-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-1-9.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-2-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-2-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-author-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-author-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-author-2-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-author-2-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-author-2-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-author-2-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-comment-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-comment-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-comment-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-comment-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-d-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-d-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-d-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-d-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-d-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-d-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-l-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-l-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-l-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-l-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-l-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-l-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-l-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-l-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-lp-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-lp-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-lp-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-lp-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/blog/blog-lp-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\blog\blog-lp-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-1-hover.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-1-hover.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-2-hover.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-2-hover.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-3-hover.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-3-hover.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-4-hover.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-4-hover.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/brand/brand-1-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\brand\brand-1-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/close.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\close.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/course-category/course-category-card-bg-1-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\course-category\course-category-card-bg-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-10.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-10.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-11.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-11.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-12.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-12.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-13.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-13.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-14.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-14.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-15.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-15.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-16.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-16.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-17.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-17.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-18.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-18.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-1-9.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-2-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-2-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-c-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-c-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-c-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-c-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-1-9.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-instructor-1-9.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-instructor-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/courses/course-d-mentor-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\courses\course-d-mentor-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/events/event-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\events\event-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/events/event-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\events\event-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/events/event-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\events\event-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/events/event-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\events\event-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/events/event-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\events\event-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/events/event-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\events\event-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/events/event-d-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\events\event-d-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/faq/faq-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\faq\faq-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/faq/faq-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\faq\faq-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/faq/faq-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\faq\faq-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/faq/faq-3-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\faq\faq-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/favicons/apple-touch-icon.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/favicons/favicon-16x16.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/favicons/favicon-32x32.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/favicons/site.webmanifest
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\favicons\site.webmanifest
+Content Type: text/plain
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/footer-widget-gallery-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\footer-widget-gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/footer-widget-gallery-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\footer-widget-gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/footer-widget-gallery-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\footer-widget-gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/footer-widget-gallery-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\footer-widget-gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/footer-widget-gallery-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\footer-widget-gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/footer-widget-gallery-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\footer-widget-gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/gallery/gallery-1-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\gallery\gallery-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/home-showcase/home-showcase-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\home-showcase\home-showcase-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/home-showcase/home-showcase-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\home-showcase\home-showcase-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/home-showcase/home-showcase-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\home-showcase\home-showcase-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/home-showcase/home-showcase-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\home-showcase\home-showcase-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-1-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-2-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-2-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-2-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-2-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-2-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-3-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-3-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-3-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-3-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/instructors/instructor-d-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\instructors\instructor-d-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/landing/home-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\landing\home-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/landing/home-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\landing\home-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/landing/home-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\landing\home-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/landing/home-boxed.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\landing\home-boxed.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/landing/home-dark.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\landing\home-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/landing/home-rtl.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\landing\home-rtl.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/loader.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\loader.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/logo-dark.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/logo-light.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\logo-light.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-1-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-1-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-2-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-2-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-2-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-2-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-2-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-3-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-3-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-student-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-student-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-student-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-student-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-student-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-student-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-student-2-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-student-2-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-student-2-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-student-2-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/main-slider/main-slider-student-2-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\main-slider\main-slider-student-2-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/cart-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\cart-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/cart-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\cart-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/cart-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\cart-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/cart-1-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\cart-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-1-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-1-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-1-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-1-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-1-5.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-1-5.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-1-6.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-1-6.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-c-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-c-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-c-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-c-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/products/product-d-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\products\product-d-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/404-error-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\404-error-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/contact-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\contact-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/contact-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\contact-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/contact-student-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\contact-student-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/contact-student-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\contact-student-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/contact-student-1-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\contact-student-1-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/contact-student-1-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\contact-student-1-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/cta-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\cta-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/cta-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\cta-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/login-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\login-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/login-logo-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\login-logo-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/offer-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\offer-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/offer-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\offer-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/pricing-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\pricing-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/video-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\video-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/resources/video-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\resources\video-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-bg-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-bg-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-shape-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-shape-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-shape-2-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-shape-2-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-shape-2-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-shape-2-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-shape-3-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-shape-3-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-shape-3-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-shape-3-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/about-shape-3-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\about-shape-3-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/blog-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\blog-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/blog-shape-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\blog-shape-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/blog-shape-3-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\blog-shape-3-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/contact-form-bg-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\contact-form-bg-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/course-card-bg-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\course-card-bg-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/course-category-shape-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\course-category-shape-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/courses-bg-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\courses-bg-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/courses-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\courses-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/courses-shape-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\courses-shape-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/courses-shape-2-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\courses-shape-2-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/courses-shape-3-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\courses-shape-3-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/courses-shape-3-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\courses-shape-3-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/cta-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\cta-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/faq-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\faq-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/faq-shape-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\faq-shape-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/faq-shape-1-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\faq-shape-1-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/faq-shape-1-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\faq-shape-1-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/faq-shape-1-5.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\faq-shape-1-5.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/footer-shape-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\footer-shape-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/footer-shape-2-rtl.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\footer-shape-2-rtl.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/footer-shape-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\footer-shape-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/footer-shape-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\footer-shape-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/footer-shape-4-rtl.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\footer-shape-4-rtl.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/footer-shape-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\footer-shape-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/footer-shape-5.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\footer-shape-5.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/funfact-bg-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\funfact-bg-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/google.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\google.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/instructors-bg-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\instructors-bg-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/instructors-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\instructors-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/instructors-shape-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\instructors-shape-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/instructors-shape-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\instructors-shape-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-bg-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-bg-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-1-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-1-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-1-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-1-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-1-5.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-1-5.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-1-6.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-1-6.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-2-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-2-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-2-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-2-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-2-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-2-4.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-2-5.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-2-5.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-2-6.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-2-6.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-2-7.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-2-7.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-3-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-3-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-3-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-3-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-title-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-title-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/offer-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\offer-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/offer-shape-1-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\offer-shape-1-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/online-class-bg-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\online-class-bg-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/page-header-shape-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\page-header-shape-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/page-header-shape-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\page-header-shape-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonial-shape-2-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonial-shape-2-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonial-shape-2-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonial-shape-2-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonial-shape-3-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonial-shape-3-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonial-shape-3-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonial-shape-3-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonial-shape-3-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonial-shape-3-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonials-bg-3-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonials-bg-3-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonials-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonials-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/title-shape-1-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\title-shape-1-1.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/title-shape-1-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\title-shape-1-2.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/title-shape-1-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\title-shape-1-3.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/testimonials/testimonial-1-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\testimonials\testimonial-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/testimonials/testimonial-1-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\testimonials\testimonial-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/testimonials/testimonial-1-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\testimonials\testimonial-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/testimonials/testimonial-2-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\testimonials\testimonial-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/testimonials/testimonial-3-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\testimonials\testimonial-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/testimonials/testimonial-3-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\testimonials\testimonial-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/images/testimonials/testimonial-3-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\testimonials\testimonial-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pixydrops.com/eduhive-html/assets/js/eduhive.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\js\eduhive.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/animate/animate.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/bootstrap-select/bootstrap-select.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\bootstrap-select\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/bootstrap-select/bootstrap-select.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\bootstrap-select\bootstrap-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/countdown/countdown.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\countdown\countdown.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-icons/fonts/icomoon.eot?wyt438
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-icons\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-icons/fonts/icomoon.svg?wyt438
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-icons\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-icons/fonts/icomoon.ttf?wyt438
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-icons\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-icons/fonts/icomoon.woff?wyt438
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-icons\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-icons/style.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-icons\style.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-toolbar/css/eduhive-toolbar.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-toolbar\css\eduhive-toolbar.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-toolbar/js/eduhive-toolbar.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-toolbar\js\eduhive-toolbar.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-toolbar/js/jQuery.style.switcher.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-toolbar\js\jQuery.style.switcher.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-toolbar/js/js.cookie.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-toolbar\js\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/eduhive-toolbar/js/lang.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\eduhive-toolbar\js\lang.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/css/all.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/imagesloaded/imagesloaded.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\imagesloaded\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/isotope/isotope.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\isotope\isotope.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jarallax/jarallax.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jarallax\jarallax.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jarallax/jarallax.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jarallax\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ajaxchimp\jquery.ajaxchimp.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-appear/jquery.appear.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-appear\jquery.appear.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-circle-progress\jquery.circle-progress.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-circleType/jquery.circleType.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-circleType\jquery.circleType.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-lettering/jquery.lettering.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-lettering\jquery.lettering.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-magnific-popup\jquery.magnific-popup.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-icons_222222_256x240.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-icons_454545_256x240.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-icons_888888_256x240.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/jquery-ui.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\jquery-ui.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-ui/jquery-ui.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-ui\jquery-ui.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery-validate/jquery.validate.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery-validate\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/jquery/jquery-3.7.0.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\jquery\jquery-3.7.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/nouislider/nouislider.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/nouislider/nouislider.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\nouislider\nouislider.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/nouislider/nouislider.pips.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\nouislider\nouislider.pips.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/owl-carousel/css/owl.carousel.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\owl-carousel\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/owl-carousel/css/owl.theme.default.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\owl-carousel\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/owl-carousel/css/owl.video.play.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\owl-carousel\css\owl.video.play.png
+Content Type: image/png
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/owl-carousel/js/owl.carousel.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\owl-carousel\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/owl-carousel/js/owlcarousel2-filter.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\owl-carousel\js\owlcarousel2-filter.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/owl-carousel/js/owlcarousel2-progressbar.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\owl-carousel\js\owlcarousel2-progressbar.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/tiny-slider/tiny-slider.css
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\tiny-slider\tiny-slider.css
+Content Type: text/css
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/tiny-slider/tiny-slider.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\tiny-slider\tiny-slider.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/wnumb/wNumb.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\wnumb\wNumb.min.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/assets/vendors/wow/wow.js
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\vendors\wow\wow.js
+Content Type: application/x-javascript
+
+Uri: https://pixydrops.com/eduhive-html/become-instructor.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\become-instructor.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-carousel-2.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-carousel-2.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-carousel.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-carousel.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-details-left.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-details-left.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-details-right.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-details-right.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-details.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-details.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-grid-left.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-grid-left.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-grid-right.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-grid-right.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-grid.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-grid.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-list-left.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-list-left.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-list-right.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-list-right.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/blog-list.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\blog-list.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/cart.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\cart.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/checkout.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\checkout.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/contact.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\contact.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/courses-2.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\courses-2.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/courses-carousel-2.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\courses-carousel-2.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/courses-carousel.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\courses-carousel.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/courses.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\courses.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/data-science.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\data-science.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/digital-marketing.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\digital-marketing.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/event-details.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\event-details.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/events-carousel.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\events-carousel.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/events.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\events.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/faq.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\faq.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/gallery-carousel.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\gallery-carousel.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/gallery-filter.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\gallery-filter.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/gallery-grid.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\gallery-grid.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/gallery.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\gallery.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/graphics-design.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\graphics-design.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-2-one-page.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-2-one-page.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-2.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-2.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-3-one-page.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-3-one-page.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-3.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-3.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-boxed.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-boxed.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-dark.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-dark.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-one-page.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-one-page.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index-rtl.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index-rtl.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/index.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\index.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/instructor-details.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\instructor-details.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/instructors-2.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\instructors-2.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/instructors-carousel-2.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\instructors-carousel-2.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/instructors-carousel.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\instructors-carousel.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/instructors.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\instructors.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/login.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\login.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/pricing.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\pricing.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/product-details.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\product-details.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/products-carousel.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\products-carousel.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/products-left.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\products-left.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/products-right.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\products-right.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/products.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\products.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/register.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\register.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/search-engine-optimization.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\search-engine-optimization.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/testimonials-carousel-2.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\testimonials-carousel-2.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/testimonials-carousel.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\testimonials-carousel.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/uiux-design.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\uiux-design.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/web-design.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\web-design.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/web-development.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\web-development.html
+Content Type: text/html
+
+Uri: https://pixydrops.com/eduhive-html/wordpress-development.html
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\wordpress-development.html
+Content Type: text/html
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\translate_a\element.js
+Content Type: text/javascript
+
