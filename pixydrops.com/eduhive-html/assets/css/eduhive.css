@@ -3882,7 +3882,8 @@ a:hover .instructor-card-two__social__icon {
 --------------------------------------------------------------*/
 .topbar {
   display: none;
-  background-color: var(--eduhive-black, #20104B);
+  background: radial-gradient(circle, #662d91, #92278f);
+
 }
 @media (min-width: 768px) {
   .topbar {
@@ -10423,7 +10424,8 @@ li:hover .contact-page__info__icon__inner {
   position: absolute;
   top: 0;
   right: 0;
-  background-color: var(--eduhive-base, #674CEF);
+  background: radial-gradient(circle, #662d91, #92278f);
+
   border-radius: 0px 0px 0px 100px;
 }
 @media (max-width: 1599px) {
@@ -11549,7 +11551,8 @@ li:hover .contact-page__info__icon__inner {
 .cta-one {
   position: relative;
   padding: var(--section-space, 120px) 0;
-  background-color: var(--eduhive-secondary, #39D4D6);
+  background: radial-gradient(circle, #662d91, #92278f);
+
   overflow: hidden;
 }
 .cta-one .container {
