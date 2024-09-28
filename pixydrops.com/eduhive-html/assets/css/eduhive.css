@@ -1512,7 +1512,7 @@ a:hover .instructor-card__social__list__icon {
   left: 0;
   opacity: 0;
   transform: translateY(30%);
-  background: linear-gradient(180deg, RGBA(var(--eduhive-white-rgb, 255, 255, 255), 0) 0%, var(--eduhive-white, #FFFFFF) 100%);
+  background: linear-gradient(180deg, RGBA(var(--eduhive-black-rgb, 255, 255, 255), 0) 0%, var(--eduhive-white, #FFFFFF) 150%);
   border-radius: 20px;
   transition: all 500ms ease;
 }
