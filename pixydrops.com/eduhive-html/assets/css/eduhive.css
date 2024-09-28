@@ -538,7 +538,7 @@ h6 {
   font-family: var(--eduhive-font, "Plus Jakarta Sans", sans-serif);
   font-weight: 600;
   font-size: 15px;
-  color: var(--eduhive-primary, #EF802E);
+  color: var(--eduhive-, #58912D);
   line-height: 1.266;
   text-transform: uppercase;
 }
@@ -1017,7 +1017,7 @@ h6 {
   display: inline-block;
   width: 30px;
   height: 4px;
-  background-color: var(--eduhive-base, #674CEF);
+  background-color: var(--eduhive-, #58912D);
   position: relative;
   overflow: hidden;
 }
@@ -4338,7 +4338,7 @@ a:hover .instructor-card-two__social__icon {
 }
 .main-menu .main-menu__list > li.current > a,
 .main-menu .main-menu__list > li:hover > a {
-  color: var(--eduhive-base, #674CEF);
+  color: var(--eduhive-, #58912D);
   text-shadow: 0 0 0.5px currentColor;
 }
 .main-menu .main-menu__list li ul {
@@ -6775,7 +6775,7 @@ li:hover .contact-page__info__icon__inner {
   margin-bottom: 6px;
   font-weight: 600;
   font-size: 16px;
-  color: var(--eduhive-black, #20104B);
+  color: var(--eduhive-, #58912D);
   line-height: 1.25;
   letter-spacing: var(--eduhive-letter-space-xl, 0.2em);
   text-transform: uppercase;
