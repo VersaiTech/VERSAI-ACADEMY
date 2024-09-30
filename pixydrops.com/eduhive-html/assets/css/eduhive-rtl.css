@@ -4296,9 +4296,7 @@ a:hover .instructor-card-two__social__icon {
   background-color: var(--eduhive-base, #674CEF);
 }
 
-.main-menu {
-  /* after third level no menu */
-}
+
 .main-menu .main-menu__list,
 .main-menu .main-menu__list ul {
   margin: 0;
