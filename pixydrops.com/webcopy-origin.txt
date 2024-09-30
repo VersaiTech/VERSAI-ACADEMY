@@ -1202,8 +1202,8 @@ Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-shape-3
 File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-shape-3-2.png
 Content Type: image/png
 
-Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-title-shape-1-1.png
-File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-title-shape-1-1.png
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/main-slider-title-shape-1-11.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\main-slider-title-shape-1-11.png
 Content Type: image/png
 
 Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/offer-shape-1-1.png
@@ -1254,8 +1254,8 @@ Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/testimonials-shape-
 File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\testimonials-shape-1-1.png
 Content Type: image/png
 
-Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/title-shape-1-1.png
-File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\title-shape-1-1.png
+Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/title-shape-1-11.png
+File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\shapes\title-shape-1-11.png
 Content Type: image/png
 
 Uri: https://pixydrops.com/eduhive-html/assets/images/shapes/title-shape-1-2.png
