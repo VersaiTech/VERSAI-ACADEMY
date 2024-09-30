@@ -758,7 +758,7 @@ Uri: https://pixydrops.com/eduhive-html/assets/images/logo_versai.png
 File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\logo-dark.png
 Content Type: image/png
 
-Uri: https://pixydrops.com/eduhive-html/assets/images/logo-light.png
+Uri: https://pixydrops.com/eduhive-html/assets/images/mobile_logo.png
 File Name: C:\Users\Admin\OneDrive\Desktop\Academy Versai\pixydrops.com\eduhive-html\assets\images\logo-light.png
 Content Type: image/png
 
