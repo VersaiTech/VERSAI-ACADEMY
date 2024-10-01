@@ -11639,6 +11639,7 @@ li:hover .contact-page__info__icon__inner {
 @media (max-width: 1799px) {
   .cta-one__image-two {
     right: 50px;
+    
   }
 }
 @media (max-width: 1399px) {
@@ -11656,6 +11657,11 @@ li:hover .contact-page__info__icon__inner {
     display: none;
   }
 }
+
+
+
+
+
 .cta-one__shape-box-one {
   width: 289px;
   height: 307px;
