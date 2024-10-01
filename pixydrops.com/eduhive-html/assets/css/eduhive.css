@@ -321,7 +321,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: var(--eduhive-font, "Plus Jakarta Sans", sans-serif);
-  color: RGBA(var(--eduhive-white-rgb, 255, 255, 255), 0.8);
+  color: var(--eduhive-text, #7B7980);
   font-size: 16px;
   line-height: 1.75;
   font-weight: 500;
@@ -11640,7 +11640,6 @@ li:hover .contact-page__info__icon__inner {
 @media (max-width: 1799px) {
   .cta-one__image-two {
     right: 50px;
-    
   }
 }
 @media (max-width: 1399px) {
@@ -11658,11 +11657,6 @@ li:hover .contact-page__info__icon__inner {
     display: none;
   }
 }
-
-
-
-
-
 .cta-one__shape-box-one {
   width: 289px;
   height: 307px;
